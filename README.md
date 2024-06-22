@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rishab Guleria</h1>
 <h3 align="center">Welcome to my GitHub profile!</h3>
 
-- 🔭 I’m currently working on [Zephyr](https://github.com/RGisanEclipse/Zephyr) & [StoryForge](https://github.com/RGisanEclipse/StoryForge)
+- #### 🔭 I’m currently working on:
+[![Zephyr](https://github-readme-stats.vercel.app/api/pin/?username=RGisanEclipse&repo=Zephyr)](https://github.com/RGisanEclipse/Zephyr)
+[![StoryForge](https://github-readme-stats.vercel.app/api/pin/?username=RGisanEclipse&repo=StoryForge)](https://github.com/RGisanEclipse/StoryForge)
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning Swift
 
 - 📫 Reach me at **rishab28guleria@gmail.com**
+  
+- 💬 Ask me about **Cosmos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
