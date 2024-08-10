@@ -3,7 +3,6 @@
 
 - #### 🔭 I’m currently working on:
 [![Zephyr](https://github-readme-stats.vercel.app/api/pin/?username=RGisanEclipse&repo=Zephyr)](https://github.com/RGisanEclipse/Zephyr)
-[![Zephyr](https://github-readme-stats.vercel.app/api/pin/?username=RGisanEclipse&repo=Phronesis)](https://github.com/RGisanEclipse/Phronesis)
 
 - 🌱 I’m currently learning Swift
 
