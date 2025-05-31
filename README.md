@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishab Guleria</h1>
 <h3 align="center">Welcome to my GitHub profile!</h3>
 
-- #### 🔭 I’m currently working on:
-[![Zephyr](https://github-readme-stats.vercel.app/api/pin/?username=RGisanEclipse&repo=Zephyr)](https://github.com/RGisanEclipse/Zephyr)
-[![Leetcode](https://github-readme-stats.vercel.app/api/pin/?username=RGisanEclipse&repo=LeetCode)](https://github.com/RGisanEclipse/LeetCode)
 
 - 🌱 I’m currently working in <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">Swift</a>
 
